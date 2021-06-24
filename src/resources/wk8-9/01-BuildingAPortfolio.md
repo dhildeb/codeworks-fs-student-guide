@@ -28,7 +28,7 @@ Of course, quality is mandatory. You should care about writing the best code pos
 
 The number of projects that will compose your portfolio can vary. Do you have four to six medium-sized projects? That's OK. Two very large ones? That's still good. Realize that, however, the fewer you have, the more these projects will have to shine. You will have to go the extra mile to build something impressive.
 
-I will later about how you can put your effort into a single project to really impress an interviewer.
+I will go over later about how you can put your effort into a single project to really impress an interviewer.
 
 Note how having a lot of quality projects can also put you one step ahead of other people. Why? Because you'll have more flexibility. You'll still choose the best five or six. But you'll have a safety net if you want to give a different direction to your portfolio. Maybe you decide to show off your skills in React, Electron, or Vue. More projects mean more choice and flexibility.
 
@@ -36,7 +36,7 @@ Note how having a lot of quality projects can also put you one step ahead of oth
 
 ## What's the Point of Your Work?
 
-This is directly linked toabove. What's the actual point behind your portfolio? Do you want to showcase your power in Angular? Demonstrate how good you can switch technologies? This varies from person to person. I'm more for a specialized developer. Pick three or four skills and do the best you can to build projects with them.
+This is directly linked to above. What's the actual point behind your portfolio? Do you want to showcase your power in Angular? Demonstrate how good you can switch technologies? This varies from person to person. I'm more for a specialized developer. Pick three or four skills and do the best you can to build projects with them.
 
 ## What Projects Can You Build for Your Portfolio?
 
@@ -56,7 +56,7 @@ Take your surroundings and building something out of them. It will show that you
 
 ## 2\. Build Something for a Local Business
 
-This may look similar to what was said above but the meaning behind this project is different. It allows you to demonstrate your ability to work in a more competitive environmen --- where you're actually seeking real clients and working with them to find a solution to their problems. This will show you can work in an unfamiliar environment to deliver projects. It also demonstrates some soft skills, like proposing a product to business.
+This may look similar to what was said above but the meaning behind this project is different. It allows you to demonstrate your ability to work in a more competitive environment --- where you're actually seeking real clients and working with them to find a solution to their problems. This will show you can work in an unfamiliar environment to deliver projects. It also demonstrates some soft skills, like proposing a product to business.
 
 My suggestion is to use networking to find businesses that need help. You may know somebody who knows somebody else in need of a website. Maybe your local ice cream shop needs a new platform for getting clients. Use your imagination and summon up a lot of courage for this.
 
@@ -70,7 +70,7 @@ Re-building a website can take a lot of skill and time. Maybe you can take somet
 
 ## Personal example
 
-Some companies that I interviewed for asked me to find fault in their websites/platforms. Showing off critical my eye took me far.
+Some companies that I interviewed for asked me to find fault in their websites/platforms. Showing off my critical eye took me far.
 
 > Tip: Only do this if you are asked by the company to do so, proactively pointing out flaws could come across as arrogant or belittling which is definitely not the first impression you want to make.
 
