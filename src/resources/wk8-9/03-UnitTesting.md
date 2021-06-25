@@ -14,7 +14,7 @@ It wasn't the most elegant way to do it, but for me, at the time it was absolute
 
 If you think about it, the practice of testing is as old as civilization itself. It was probably discovered the first time someone had to use a measuring stick to make sure he is cutting a branch at the correct length for his mud house.
 
-It has certainly been done ever since mechanical engineering is a thing. A car is made up of thousands of separate components, developed by different companies on different continents, yet they all fit together.
+It has certainly been done ever since mechanical engineering was a thing. A car is made up of thousands of separate components, developed by different companies on different continents, yet they all fit together.
 
 Now, if you were building an airplane and had to do a test flight each time you wanted to test if the tray table is fitted correctly, you would think something is wrong. But sadly, it happens every day in software companies around the world. Let's not even go to rockets, nuclear bombs and so on, where end to end testing is impossible.
 
